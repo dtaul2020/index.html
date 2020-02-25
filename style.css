@@ -1,0 +1,75 @@
+body, html {
+   background-color: yellow}
+h1, h2, h3, h4, h5, h6 {
+   font-weight: normal;
+   color: #755139;
+   margin: 0px;
+   text-align: left; }
+h1 {
+   font-family: Georgia, Times, serif;
+   font-weight: bold;
+   font-size: 250%;
+   text-align: left;}
+h2 {
+   font-family: Georgia, Times, serif;
+   font-weight: bold;
+   font-size: 250%;
+  text-align: left; }
+h3 {
+  font-family: Georgia, Times, serif;
+  font-weight: bold;
+  font-style: italic;
+  font-size: 100%;
+  text-align: left; }
+h4 {
+  font-family: Georgia, Times, serif;
+  font-weight: bold;
+  font-size: 250%
+  text-align: left; }
+h5 {
+  font-family: Georgia, Times, serif;
+  font-weight: bold;
+  font-size: 250%;
+  text-align: left }
+h6 {
+  font-family: Georgia, Times, serif;
+  font-weight: bold;
+  font-size: 250%;
+  text-align: left; }
+p {
+  font-family: Georgia, Times, serif;
+  font-weight: normal;
+  text-align: left; }
+p.intro {
+   font-family: Georgia, Times, serif;
+   font-weight: normal;
+   font-size: 100%;
+   text-align: left; }
+p.about me {
+   font-family: Georgia, Times, serif;
+   font-weight: normal;
+   font-size: 100%;
+   text-align: left; }
+a {
+  color: black;
+  cursor: pointer; }
+a: link {
+   text-decoration: none; }
+a: visited {
+   color: black;}
+a: hover {
+   color: pink;
+   text-decoration: underline; }
+table{
+   border-spacing: 0px;}
+td {
+   background-color: #9536AD;
+   border: 2px solid black;}
+
+
+   
+  
+
+
+   
+  
